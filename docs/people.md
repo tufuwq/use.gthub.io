@@ -45,10 +45,6 @@ hide:
         <text>王桂兰</text>
     </span>
     <span class="std_box">
-        <img src="https://dummyimage.com/300x400" />
-        <text>名字</text>
-    </span>
-    <span class="std_box">
         <img src="https://github.com/tufuwq/use.gthub.io/blob/gh-pages/img/%E7%8E%8B%E7%84%B6%E5%93%B2.jpg" />
         <text>王然哲</text>
     </span>
