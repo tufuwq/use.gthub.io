@@ -6,7 +6,7 @@ hide:
 # People
 ## Tutor
 <span class="std_box">
-    <img src="../img/叶英豪.jpg" loading="lazy"/>
+    <img src="../img/叶英豪.png" loading="lazy"/>
     <text>叶英豪</text>
 </span>
 
