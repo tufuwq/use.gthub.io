@@ -13,7 +13,7 @@ hide:
 ## Graduate students
 <span class="std_out">
     <span class="std_box">
-        <img src="https://github.com/tufuwq/use.gthub.io/blob/gh-pages/img/%E4%BB%A3%E5%BE%B7%E5%AE%97.jpg" />
+        <img src="../img/代德宗.jpg" />
         <text>代德宗</text>
     </span>
     <span class="std_box">
